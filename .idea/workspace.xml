@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a2b5e0ef-85c7-4133-b568-3239eb877f7b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/合并.txt" beforeDir="false" afterPath="$PROJECT_DIR$/合并.txt" afterDir="false" />
-    </list>
+    <list default="true" id="a2b5e0ef-85c7-4133-b568-3239eb877f7b" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -155,17 +152,18 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="啊实打实的" />
     <MESSAGE value="Revert &quot;啊实打实的&quot;&#10;&#10;This reverts commit 8e0800313eea101c0dce7f1d1fb67b72120c7cba." />
-    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;啊实打实的&quot;&#10;&#10;This reverts commit 8e0800313eea101c0dce7f1d1fb67b72120c7cba." />
+    <MESSAGE value="new_dev" />
+    <option name="LAST_COMMIT_MESSAGE" value="new_dev" />
   </component>
   <component name="WindowStateProjectService">
     <state x="476" y="2" key="CommitChangelistDialog2" timestamp="1582021536715">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="476" y="2" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1582021536715" />
-    <state x="552" y="233" key="Vcs.Push.Dialog.v2" timestamp="1582021541883">
+    <state x="552" y="233" key="Vcs.Push.Dialog.v2" timestamp="1582021924508">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="233" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1582021541883" />
+    <state x="552" y="233" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1582021924508" />
   </component>
   <component name="masterDetails">
     <states>
